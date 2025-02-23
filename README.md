@@ -10,4 +10,4 @@
 #### CV English.
 [Link to CV](https://github.com/KaspianChi/CV/blob/main/Дмитрий%20Демчило%20Тестировщик.pdf) 
 
-My first resume in English. Relevant for February-March 2025ю
+My first resume in English. Relevant for February-March 2025.
